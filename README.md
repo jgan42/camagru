@@ -1,4 +1,7 @@
 # 42school Project : Web
+
+Web project instagram-like using webcam or custom image with the possibility to apply some layers
+
 # camagru
 
 Requirement (built on) :
